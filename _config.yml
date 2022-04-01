@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jiacheng Li"
 description              : &description "VIDAR Group, USTC"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  "/" # the subpath of your site, e.g. "/blog"
+baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ddleecn
+  username               : # ddleecn
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiacheng Li"
-  avatar           : "photo.jpg"
+  avatar           : "portrait.jpg"
   bio              : "VIDAR, USTC"
   location         : "Hefei, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ddleecn"
+  twitter          :
   vine             :
   weibo            :
   xing             :
