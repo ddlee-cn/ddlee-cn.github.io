@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 
 Hi there, I am a Ph.D Student from VIDAR (Vision Information Discovery And Recovery) group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). My research interests include image restoration, image sythesis, and computational photography.
 

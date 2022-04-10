@@ -7,6 +7,8 @@ tags:
   - Code
 ---
 
+A note on engineering practice in machine learning research.
+
 Inspired by Karpathy's impressive post [A Recipe for Training Neural Networks](<http://karpathy.github.io/2019/04/25/recipe/>), I decided to review and share my daily route of engineering works on Machine Learning related research. Compared to Karpathy's advice, I'd like to talk more about approaches or practices instead of strategies. This article is merely a personal revision from a newbie, so any suggestions are welcomed.
 
 ## The Philosophy
