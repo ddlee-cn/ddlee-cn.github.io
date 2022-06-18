@@ -35,7 +35,7 @@ I am looking for a research intern position in the upcomming fall, please contac
 
 **Jiacheng Li**, Chang Chen, Zhiwei Xiong. 2022.  In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
-[Project Page](https://ddlee-cn.github.io/cto-gan/)
+[Project Page](https://ddlee-cn.github.io/cto-gan/), [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Contextual_Outpainting_With_Object-Level_Contrastive_Learning_CVPR_2022_paper.pdf) , [Poster](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Li_Contextual_Outpainting_With_CVPR_2022_supplemental.pdf), [Intro Video(YouTube)](https://youtu.be/63pItMx5UDE), [Demo Video(YouTube)](https://youtu.be/gHYbPuoEEXU)
 
 <!-- , [Paper]({{ site.baseurl }}/files/SemIA-MM20.pdf) , [Slides]({{ site.baseurl }}/files/SemIA-MM20-slides.pdf) , [Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601) -->
 
