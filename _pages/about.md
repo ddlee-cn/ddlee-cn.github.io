@@ -11,10 +11,6 @@ redirect_from:
 ## About Me
 
 Hi there, I am a Ph.D Student from VIDAR (Vision Information Discovery And Recovery) group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). My research interests include image restoration, image sythesis, and computational photography.
-<!-- 
-I am looking for a research intern position in the upcomming fall, please contact me via [email](mailto:jclee@mail.ustc.edu.cn) if you are interested.
-
-我正在寻找今年秋天入职的研究实习生岗位，如果您有合适的职位，请通过[邮件](mailto:jclee@mail.ustc.edu.cn)联系我。我感兴趣的方向包括但不限于高效图像恢复算法、条件生成模型应用、图形学与神经渲染等。 -->
 
 ## Publications
 
