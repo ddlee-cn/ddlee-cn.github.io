@@ -17,35 +17,30 @@ Hi there, I am a Ph.D Student from VIDAR (Vision Information Discovery And Recov
 
 <!-- ![SemIA]({{ site.baseurl }}/images/SemIA/teaser.png) -->
 
-*Semantic Image Analogy with a Conditional Single-Image GAN*. 
+*Semantic Image Analogy with a Conditional Single-Image GAN*. **Jiacheng Li**, Zhiwei Xiong, Dong Liu, Xuejin Chen, Zhen-Jun Zha. In MM ’20: ACM International Conference on Multimedia (ACM MM). Virtual, 2020. (Oral)
 
-**Jiacheng Li**, Zhiwei Xiong, Dong Liu, Xuejin Chen, Zhen-Jun Zha. In MM ’20: ACM International Conference on Multimedia (ACM MM). Virtual, 2020. (Oral)
-
-[Project Page]({{ site.baseurl }}/publication/2020-07-26-MM2020-SemIA.html), [Paper]({{ site.baseurl }}/files/SemIA-MM20.pdf) , [Slides]({{ site.baseurl }}/files/SemIA-MM20-slides.pdf) , [Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601)
+[Project Page]({{ site.baseurl }}/publication/2020-07-26-MM2020-SemIA.html), [Paper]({{ site.baseurl }}/files/SemIA-MM20.pdf), [Intro Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601), [Code](https://github.com/ddlee-cn/SemIA)
 
 ---
 
 <!-- ![CTOut]({{ site.baseurl }}/images/CTOut/teaser.png) -->
 
-*Contextual Outpainting with Object-Level Contrastive Learning*. 
+*Contextual Outpainting with Object-Level Contrastive Learning*. **Jiacheng Li**, Chang Chen, Zhiwei Xiong. In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). New Orleans, US, 2022. 
 
-**Jiacheng Li**, Chang Chen, Zhiwei Xiong. In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). New Orleans, US, 2022. 
-
-[Project Page](https://ddlee-cn.github.io/cto-gan/), [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Contextual_Outpainting_With_Object-Level_Contrastive_Learning_CVPR_2022_paper.pdf) , [Poster](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Li_Contextual_Outpainting_With_CVPR_2022_supplemental.pdf), [Intro Video(YouTube)](https://youtu.be/63pItMx5UDE), [Demo Video(YouTube)](https://youtu.be/gHYbPuoEEXU)
+[Project Page](https://ddlee-cn.github.io/cto-gan/), [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Contextual_Outpainting_With_Object-Level_Contrastive_Learning_CVPR_2022_paper.pdf), [Supp.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Li_Contextual_Outpainting_With_CVPR_2022_supplemental.pdf), [Intro Video(YouTube)](https://youtu.be/63pItMx5UDE), [Demo Video(YouTube)](https://youtu.be/gHYbPuoEEXU), [Code](https://mailustceducn-my.sharepoint.com/:f:/g/personal/jclee_mail_ustc_edu_cn/Elzm9EwS83JDiBuaxJOiBvIB0VuHprzuHABp6rctX37kSg?e=ottSJn)
 
 <!-- , [Paper]({{ site.baseurl }}/files/SemIA-MM20.pdf) , [Slides]({{ site.baseurl }}/files/SemIA-MM20-slides.pdf) , [Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601) -->
 ---
 
-*Reference-Guided Landmark Image Inpainting with Deep Feature Matching*. 
+*Reference-Guided Landmark Image Inpainting with Deep Feature Matching*. **Jiacheng Li**, Zhiwei Xiong, Dong Liu.  IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT). Early Access.
 
-**Jiacheng Li**, Zhiwei Xiong, Dong Liu.  IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT). Early Access.
+[Project Page]({{ site.baseurl }}/publication/2022-07-26-TCSVT-RefMatch.html), [Paper(IEEE Xplore)](https://ieeexplore.ieee.org/document/9840396)
 
 ---
 
-*MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution*. 
+*MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution*. **Jiacheng Li\***, Chang Chen\*, Zhen Cheng, Zhiwei Xiong. In Proceedings of European Conference on Computer Vision (ECCV). Tel Aviv, Israel, 2022
 
-**Jiacheng Li\***, Chang Chen\*, Zhen Cheng, Zhiwei Xiong. In Proceedings of European Conference on Computer Vision (ECCV). Tel Aviv, Israel, 2022
-
+[Project Page](https://mulut.pages.dev), [Paper](), [Intro Video(YouTube)](), [Code](https://github.com/ddlee-cn/MuLUT)
 
 ## Awards
 
