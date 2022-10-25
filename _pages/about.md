@@ -40,7 +40,7 @@ Hi there, I am a Ph.D Student from VIDAR (Vision Information Discovery And Recov
 
 *MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution*. **Jiacheng Li\***, Chang Chen\*, Zhen Cheng, Zhiwei Xiong. In Proceedings of European Conference on Computer Vision (ECCV). Tel Aviv, Israel, 2022
 
-[Project Page](https://mulut.pages.dev), [Paper](), [Intro Video(YouTube)](), [Code](https://github.com/ddlee-cn/MuLUT)
+[Project Page](https://mulut.pages.dev), [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf), [Supp.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234-supp.pdf), [Intro Video(YouTube)](https://youtu.be/xmvQYW7dtaE), [Code](https://github.com/ddlee-cn/MuLUT)
 
 ## Awards
 
