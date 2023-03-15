@@ -7,7 +7,7 @@ tags:
   - Image-to-Image Translation
 ---
 
- Selected papers on image synthesis and image-to-image translation from CVPR 2020
+遴选的CVPR2020会议上的与图像生成相关的论文。
 
 ## Semantically Multi-modal Image Synthesis
 - Author: Zeping Zhu, Zhi-liang Xu, Ansheng You, Xiang Bai

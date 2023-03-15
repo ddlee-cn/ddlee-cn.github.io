@@ -7,8 +7,7 @@ tags:
   - Image-to-Image Translation
 ---
 
-Group summer paper reading presentation on corresondence usage in image restoration and creation tasks.
-
+为组里CVPR论文阅读活动准备的报告，从响应关系的角度讨论了不同抽象程度的视觉响应在不同任务中的引入好处和应用方式。
 
 ## Visual Correspondence: Sparse or Dense
 

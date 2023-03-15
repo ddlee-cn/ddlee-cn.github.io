@@ -6,7 +6,7 @@ tags:
   - Generative Models
 ---
 
-An overview of deep generative models, including VAE, flow-based, GANs.
+生成模型概览，包括VAE, flow-based和GAN等主流方法.
 
 ## Taxonomy
 

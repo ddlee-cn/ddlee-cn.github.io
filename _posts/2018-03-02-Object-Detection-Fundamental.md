@@ -6,7 +6,7 @@ tags:
   - Object Detection
 ---
 
-Object detection methods with deep learning.
+基于深度学习的目标检测：早期工作（两阶段和单阶段划分）
 
 ## Fast RCNN - Grishick - ICCV 2015 - Caffe Code
 

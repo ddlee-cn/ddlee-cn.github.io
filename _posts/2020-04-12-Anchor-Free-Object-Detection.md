@@ -6,7 +6,7 @@ tags:
   - Object Detection
 ---
 
-Summarizing recent anchor-free object detectors.
+对anchor-free系列的检测工作的概览和总结。
 
 ## CornerNet: Detecting Objects as Paired Keypoints - ECCV 2018
 

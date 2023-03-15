@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning Engineering: Best Practice?'
+title: '深度学习科研最佳实践：我的做法'
 date: 2019-05-04
 permalink: /posts/2019/05/best-practice/
 tags:
@@ -7,7 +7,8 @@ tags:
   - Code
 ---
 
-A note on engineering practice in machine learning research.
+思考和总结了科研工程方面的习惯和经验。
+
 
 Inspired by Karpathy's impressive post [A Recipe for Training Neural Networks](<http://karpathy.github.io/2019/04/25/recipe/>), I decided to review and share my daily route of engineering works on Machine Learning related research. Compared to Karpathy's advice, I'd like to talk more about approaches or practices instead of strategies. This article is merely a personal revision from a newbie, so any suggestions are welcomed.
 
