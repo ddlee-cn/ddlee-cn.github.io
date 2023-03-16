@@ -14,12 +14,12 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 
 I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position related to artificial intelligence generated content (AIGC), computational photography, and computer vision. If you are interested, please contact me via [jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn).
 
-我预计于2024年夏季毕业，如果您有内容生成、计算摄像以及计算视觉相关的工作岗位，请通过邮件（[jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn)）联系我。
+我预计于2024年夏季毕业，如果您有内容生成、计算摄像以及计算机视觉相关的工作岗位，请通过邮件（[jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn)）联系我。
 
 ## Publications
 
 ### Learning Steerable Function for Efficient Image Resampling
-*Jiacheng Li, Chang Chen, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
+*Jiacheng Li\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
 [Project](https://lerf.pages.dev) |
 [PDF](#) |
