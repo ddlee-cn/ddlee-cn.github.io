@@ -19,23 +19,35 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 ## Publications
 
 ### Learning Steerable Function for Efficient Image Resampling
-*Jiacheng Li\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
+*__Jiacheng Li__\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
 [Project](https://lerf.pages.dev) |
 [PDF](#) |
 [Supp.](#) |
-[Code](#) (Comming soon)
+[Code](#) (Coming soon)
 
+### Style Projected Clustering for Domain Generalized Semantic Segmentation
+*Wei, Huang, Chang Chen, Yong Li, __Jiacheng Li__, Cheng Li, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
+<span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
+[PDF](#) |
+[Supp.](#) |
+[Code](#) (Coming soon)
+
+### Region-Aware Portrait Retouching with Sparse Interactive Guidance
+*Huimin Zeng, Jie Huang, __Jiacheng Li__, Zhiwei Xiong* <br>
+<span><pub>IEEE Transactions on Multimedia (T-MM), 2023</pub></span> <br>
+[PDF](https://ieeexplore.ieee.org/document/10081407) |
+[Code](https://github.com/ZeldaM1/interactive_portrat_retouching)
 
 ### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
-*Jiacheng Li\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
+*__Jiacheng Li__\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
 <span><pub>arxiv preprint, 2023</pub></span> <br>
 [Project](https://mulut.pages.dev) |
 [PDF](https://arxiv.org/pdf/2303.14506.pdf) |
 [Code](https://github.com/ddlee-cn/MuLUT)
 
 ### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution
-*Jiacheng Li\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
+*__Jiacheng Li__\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
 <span><pub>European Conference on Computer Vision (ECCV), 2022</pub></span> <br>
 [Project](https://mulut.pages.dev) |
 [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf) |
@@ -47,7 +59,7 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 <!-- ![CTOut]({{ site.baseurl }}/images/CTOut/teaser.png) -->
 
 ### Contextual Outpainting with Object-Level Contrastive Learning
-*Jiacheng Li, Chang Chen, Zhiwei Xiong* <br>
+*__Jiacheng Li__, Chang Chen, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</pub></span> <br> 
 [Project](https://ddlee-cn.github.io/cto-gan/) | 
 [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Contextual_Outpainting_With_Object-Level_Contrastive_Learning_CVPR_2022_paper.pdf) | 
@@ -59,14 +71,21 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 <!-- , [Paper]({{ site.baseurl }}/files/SemIA-MM20.pdf) , [Slides]({{ site.baseurl }}/files/SemIA-MM20-slides.pdf) , [Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601) -->
 
 ### Reference-Guided Landmark Image Inpainting with Deep Feature Matching 
-*Jiacheng Li, Zhiwei Xiong, Dong Liu* <br>
+*__Jiacheng Li__, Zhiwei Xiong, Dong Liu* <br>
 <span><pub>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2022</pub></span> <br>
 [Project]({{ site.baseurl }}/publication/2022-07-26-TCSVT-RefMatch.html) |
 [PDF](https://ieeexplore.ieee.org/document/9840396)
 
 
+### Mask Rearranging Data Augmentation for 3D Mitochondria Segmentation 
+*Qi Chen, Mingxing Li, __Jiacheng Li__, Bo Hu, Zhiwei Xiong* <br>
+<span><pub>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2022</pub></span> <br>
+[PDF](https://ieeexplore.ieee.org/document/9840396) |
+[Code](https://github.com/qic999/MRDA_MitoSeg)
+
+
 ### Semantic Image Analogy with a Conditional Single-Image GAN 
-*Jiacheng Li, Zhiwei Xiong, Dong Liu, Xuejin Chen, Zhen-Jun Zha* <br>
+*__Jiacheng Li__, Zhiwei Xiong, Dong Liu, Xuejin Chen, Zhen-Jun Zha* <br>
 <span><pub>ACM International Conference on Multimedia (ACM MM), 2020</pub></span> <br>
 <span><highlighted>Oral</highlighted><span> |
 [Project]({{ site.baseurl }}/publication/2020-07-26-MM2020-SemIA.html) |
