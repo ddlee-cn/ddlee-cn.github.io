@@ -12,9 +12,9 @@ redirect_from:
 
 Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Recovery) group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). My research interests include viusal content synthesis and computational photography.
 
-I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position related to artificial intelligence generated content (AIGC), computational photography, and computer vision. If you are interested, please contact me via [jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn).
+<!-- I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position related to artificial intelligence generated content (AIGC), computational photography, and computer vision. If you are interested, please contact me via [jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn).
 
-我预计于2024年夏季毕业，如果您有内容生成、计算摄像以及计算机视觉相关的工作岗位，请通过邮件（[jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn)）联系我。
+我预计于2024年夏季毕业，如果您有内容生成、计算摄像以及计算机视觉相关的工作岗位，请通过邮件（[jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn)）联系我。 -->
 
 ## Publications
 
@@ -25,6 +25,14 @@ I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position
 [PDF](#) |
 [Supp.](#) |
 [Code](#) (Comming soon)
+
+
+### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
+*Jiacheng Li\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
+<span><pub>arxiv preprint, 2023</pub></span> <br>
+[Project](https://mulut.pages.dev) |
+[PDF](https://arxiv.org/pdf/2303.14506.pdf) |
+[Code](https://github.com/ddlee-cn/MuLUT)
 
 ### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution
 *Jiacheng Li\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
