@@ -40,7 +40,7 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 [Code](https://github.com/ZeldaM1/interactive_portrat_retouching)
 
 ### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
-*__Jiacheng Li__\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
+*__Jiacheng Li__, Chang Chen, Zhen Cheng, Zhiwei Xiong* <br>
 <span><pub>arxiv preprint, 2023</pub></span> <br>
 [Project](https://mulut.pages.dev) |
 [PDF](https://arxiv.org/pdf/2303.14506.pdf) |
