@@ -18,6 +18,8 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 
 ## Publications
 
+## Topic: Computational Photography
+
 ### Learning Steerable Function for Efficient Image Resampling
 *__Jiacheng Li__\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
@@ -25,19 +27,6 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 [PDF](#) |
 [Supp.](#) |
 [Code](#) (Coming soon)
-
-### Style Projected Clustering for Domain Generalized Semantic Segmentation
-*Wei, Huang, Chang Chen, Yong Li, __Jiacheng Li__, Cheng Li, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
-<span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
-[PDF](#) |
-[Supp.](#) |
-[Code](#) (Coming soon)
-
-### Region-Aware Portrait Retouching with Sparse Interactive Guidance
-*Huimin Zeng, Jie Huang, __Jiacheng Li__, Zhiwei Xiong* <br>
-<span><pub>IEEE Transactions on Multimedia (T-MM), 2023</pub></span> <br>
-[PDF](https://ieeexplore.ieee.org/document/10081407) |
-[Code](https://github.com/ZeldaM1/interactive_portrat_retouching)
 
 ### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
 *__Jiacheng Li__, Chang Chen, Zhen Cheng, Zhiwei Xiong* <br>
@@ -57,6 +46,7 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 
 
 <!-- ![CTOut]({{ site.baseurl }}/images/CTOut/teaser.png) -->
+## Topic: Visual Content Synthesis
 
 ### Contextual Outpainting with Object-Level Contrastive Learning
 *__Jiacheng Li__, Chang Chen, Zhiwei Xiong* <br>
@@ -77,12 +67,6 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 [PDF](https://ieeexplore.ieee.org/document/9840396)
 
 
-### Mask Rearranging Data Augmentation for 3D Mitochondria Segmentation 
-*Qi Chen, Mingxing Li, __Jiacheng Li__, Bo Hu, Zhiwei Xiong* <br>
-<span><pub>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2022</pub></span> <br>
-[PDF](https://ieeexplore.ieee.org/document/9840396) |
-[Code](https://github.com/qic999/MRDA_MitoSeg)
-
 
 ### Semantic Image Analogy with a Conditional Single-Image GAN 
 *__Jiacheng Li__, Zhiwei Xiong, Dong Liu, Xuejin Chen, Zhen-Jun Zha* <br>
@@ -92,6 +76,30 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 [PDF]({{ site.baseurl }}/files/SemIA-MM20.pdf) |
 [Intro Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601) |
 [Code](https://github.com/ddlee-cn/SemIA)
+
+
+## Collaboration Works
+
+### Style Projected Clustering for Domain Generalized Semantic Segmentation
+*Wei, Huang, Chang Chen, Yong Li, __Jiacheng Li__, Cheng Li, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
+<span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
+[PDF](#) |
+[Supp.](#) |
+[Code](#) (Coming soon)
+
+### Region-Aware Portrait Retouching with Sparse Interactive Guidance
+*Huimin Zeng, Jie Huang, __Jiacheng Li__, Zhiwei Xiong* <br>
+<span><pub>IEEE Transactions on Multimedia (T-MM), 2023</pub></span> <br>
+[PDF](https://ieeexplore.ieee.org/document/10081407) |
+[Code](https://github.com/ZeldaM1/interactive_portrat_retouching)
+
+### Mask Rearranging Data Augmentation for 3D Mitochondria Segmentation 
+*Qi Chen, Mingxing Li, __Jiacheng Li__, Bo Hu, Zhiwei Xiong* <br>
+<span><pub>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2022</pub></span> <br>
+[PDF](https://ieeexplore.ieee.org/document/9840396) |
+[Code](https://github.com/qic999/MRDA_MitoSeg)
+
+
 
 ## Awards
 
