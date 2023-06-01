@@ -12,9 +12,9 @@ redirect_from:
 
 Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Recovery) group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). My research interests include viusal content synthesis and computational photography.
 
-<!-- I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position related to artificial intelligence generated content (AIGC), computational photography, and computer vision. If you are interested, please contact me via [jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn).
+I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position related to artificial intelligence generated content (AIGC), computational photography, and computer vision. If you are interested, please contact me via [jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn).
 
-我预计于2024年夏季毕业，如果您有内容生成、计算摄像以及计算机视觉相关的工作岗位，请通过邮件（[jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn)）联系我。 -->
+我预计于2024年夏季毕业，如果您有内容生成、计算摄像以及计算机视觉相关的工作岗位，请通过邮件（[jclee@mail.ustc.edu.cn](mailto:jclee@mail.ustc.edu.cn)）联系我。
 
 ## Publications
 
@@ -24,9 +24,10 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 *__Jiacheng Li__\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
 [Project](https://lerf.pages.dev) |
-[PDF](#) |
-[Supp.](#) |
-[Code](#) (Coming soon)
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Learning_Steerable_Function_for_Efficient_Image_Resampling_CVPR_2023_paper.pdf) |
+[Supp.](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Learning_Steerable_Function_CVPR_2023_supplemental.pdf) |
+[Intro Video(YouTube)](https://www.youtube.com/watch?v=6Sgnq2AD5yw) |
+[Code](https://github.com/ddlee-cn/LeRF-MindSpore)
 
 ### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
 *__Jiacheng Li__, Chang Chen, Zhen Cheng, Zhiwei Xiong* <br>
@@ -83,10 +84,8 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 ### Style Projected Clustering for Domain Generalized Semantic Segmentation
 *Wei, Huang, Chang Chen, Yong Li, __Jiacheng Li__, Cheng Li, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
-[PDF](#) |
-[Supp.](#) |
-[Code](#) (Coming soon)
-
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Style_Projected_Clustering_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf) |
+[Supp.](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Huang_Style_Projected_Clustering_CVPR_2023_supplemental.pdf) 
 ### Region-Aware Portrait Retouching with Sparse Interactive Guidance
 *Huimin Zeng, Jie Huang, __Jiacheng Li__, Zhiwei Xiong* <br>
 <span><pub>IEEE Transactions on Multimedia (T-MM), 2023</pub></span> <br>
@@ -104,6 +103,8 @@ Hi there, I am a Ph.D. candidate from VIDAR (Vision Information Discovery And Re
 ## Awards
 
 Winner of Dunhuang Challenge (Inpainting) at [ICCV 2019 Workshop on e-Heritage](https://www.cvl.iis.u-tokyo.ac.jp/e-Heritage2019/)
+
+National Scholarship (国家奖学金) 2022
 
 <!-- 
 ## Experiences
