@@ -106,15 +106,15 @@ Winner of Dunhuang Challenge (Inpainting) at [ICCV 2019 Workshop on e-Heritage](
 
 National Scholarship (国家奖学金) 2022
 
-<!-- 
+
 ## Experiences
 
 Research Intern, Huawei Noah's Ark Lab, Beijing, 2022.08 - present
 
-Topics: Image Restoration
+Topics: Computational Photography
 
 ---
 
 Research Intern, DeepGlint, Beijing, 2017.10-2018.07
 
-Topic: Object Detection -->
+Topic: Object Detection
