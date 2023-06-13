@@ -18,33 +18,6 @@ I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position
 
 ## Publications
 
-## Topic: Computational Photography
-
-### Learning Steerable Function for Efficient Image Resampling
-*__Jiacheng Li__\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
-<span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
-[Project](https://lerf.pages.dev) |
-[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Learning_Steerable_Function_for_Efficient_Image_Resampling_CVPR_2023_paper.pdf) |
-[Supp.](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Learning_Steerable_Function_CVPR_2023_supplemental.pdf) |
-[Intro Video(YouTube)](https://www.youtube.com/watch?v=6Sgnq2AD5yw) |
-[Code](https://github.com/ddlee-cn/LeRF-MindSpore)
-
-### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
-*__Jiacheng Li__, Chang Chen, Zhen Cheng, Zhiwei Xiong* <br>
-<span><pub>arxiv preprint, 2023</pub></span> <br>
-[Project](https://mulut.pages.dev) |
-[PDF](https://arxiv.org/pdf/2303.14506.pdf) |
-[Code](https://github.com/ddlee-cn/MuLUT)
-
-### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution
-*__Jiacheng Li__\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
-<span><pub>European Conference on Computer Vision (ECCV), 2022</pub></span> <br>
-[Project](https://mulut.pages.dev) |
-[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf) |
-[Supp.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234-supp.pdf) |
-[Intro Video(YouTube)](https://youtu.be/xmvQYW7dtaE) |
-[Code](https://github.com/ddlee-cn/MuLUT)
-
 
 <!-- ![CTOut]({{ site.baseurl }}/images/CTOut/teaser.png) -->
 ## Topic: Visual Content Synthesis
@@ -79,6 +52,34 @@ I'm expected to obtain my Ph.D. degree at July 2024, and I'm pursuing a position
 [Code](https://github.com/ddlee-cn/SemIA)
 
 
+## Topic: Computational Photography
+
+### Learning Steerable Function for Efficient Image Resampling
+*__Jiacheng Li__\*, Chang Chen\*, Wei Huang, Zhiqiang Lang, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
+<span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</pub></span> <br>
+[Project](https://lerf.pages.dev) |
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Learning_Steerable_Function_for_Efficient_Image_Resampling_CVPR_2023_paper.pdf) |
+[Supp.](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Learning_Steerable_Function_CVPR_2023_supplemental.pdf) |
+[Intro Video(YouTube)](https://www.youtube.com/watch?v=6Sgnq2AD5yw) |
+[Code](https://github.com/ddlee-cn/LeRF-MindSpore)
+
+### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
+*__Jiacheng Li__, Chang Chen, Zhen Cheng, Zhiwei Xiong* <br>
+<span><pub>arxiv preprint, 2023</pub></span> <br>
+[Project](https://mulut.pages.dev) |
+[PDF](https://arxiv.org/pdf/2303.14506.pdf) |
+[Code](https://github.com/ddlee-cn/MuLUT)
+
+### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution
+*__Jiacheng Li__\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
+<span><pub>European Conference on Computer Vision (ECCV), 2022</pub></span> <br>
+[Project](https://mulut.pages.dev) |
+[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf) |
+[Supp.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234-supp.pdf) |
+[Intro Video(YouTube)](https://youtu.be/xmvQYW7dtaE) |
+[Code](https://github.com/ddlee-cn/MuLUT)
+
+
 ## Collaboration Works
 
 ### Style Projected Clustering for Domain Generalized Semantic Segmentation
@@ -111,7 +112,7 @@ National Scholarship (国家奖学金) 2022
 
 Research Intern, Huawei Noah's Ark Lab, Beijing, 2022.08 - present
 
-Topics: Computational Photography
+Topics: AIGC, Computational Photography
 
 ---
 
