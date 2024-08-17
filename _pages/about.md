@@ -50,13 +50,13 @@ _Zhuoyuan Li, __Jiacheng Li__, Yao Li, Li Li, Dong Liu, Feng Wu_ <br>
 _Yinglong Li, __Jiacheng Li__, Zhiwei Xiong_ <br>
 <span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 <highlighted>(Highlight)</highlighted> </pub></span> <br>
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Look-Up_Table_Compression_for_Efficient_Image_Restoration_CVPR_2024_paper.pdf){:target="\_blank"} |
-[Code](https://github.com/leenas233/DFC){:target="\_blank"} |
+[Code](https://github.com/leenas233/DFC){:target="\_blank"}
 
 ### Fast 3D Reconstruction via Event-based Structured Light with Spatio-temporal Coding
 _Jiacheng Fu, Yueyi Zhang, Yue Li, __Jiacheng Li__, Zhiwei Xiong_ <br>
 <span><pub>Optics Express (OE), 2023</pub></span> <br>
 [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-26-44588){:target="\_blank"} |
-[Demo Video](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-26-44588&seq=v001){:target="\_blank"} |
+[Demo Video](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-26-44588&seq=v001){:target="\_blank"}
 
 
 ### Region-Aware Portrait Retouching with Sparse Interactive Guidance
