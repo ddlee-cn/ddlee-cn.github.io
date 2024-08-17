@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiacheng Li @ USTC"
+title                    : "Jiacheng Li"
 title_separator          : "-"
 name                     : &name "Jiacheng Li"
-description              : &description "VIDAR Group, USTC"
+description              : &description "Sony Research"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # ddleecn
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Jiacheng Li"
   avatar           : "portrait.jpg"
-  bio              : "VIDAR, USTC"
-  location         : "Hefei, China"
+  bio              : "Sony Research"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jclee [at] mail [dot] ustc [dot] edu [dot] cn"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://ddlee.cc
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
