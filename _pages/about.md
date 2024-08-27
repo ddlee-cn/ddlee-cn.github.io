@@ -143,5 +143,3 @@ National Scholarship 2022
 ## Services
 
 Reviewer of T-PAMI, T-IP, T-CSVT, CVPR, ICCV, ECCV, etc.
-
-AAAI 2025 Program Committee Member
