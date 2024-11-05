@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hi there, I am a Research Scientist with Sony Research. I received the Ph.D. degree from the University of Science and Technology of China, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). I also worked closely with [Prof. Dong Liu](https://faculty.ustc.edu.cn/dongeliu/). My research interests include multimedia technology, computational photography, and AI-generated content.
+Hi there, I am a Research Scientist with Sony Research. I received the Ph.D. degree from the University of Science and Technology of China, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). I also worked closely with [Prof. Dong Liu](https://faculty.ustc.edu.cn/dongeliu/). My main research interest is multimedia technology, including high-efficiency image/video processing, image editing, etc.
 
 
 ## Publications
