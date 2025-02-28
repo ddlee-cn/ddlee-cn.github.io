@@ -15,6 +15,21 @@ Hi there, I am a Research Scientist with Sony Research. I received the Ph.D. deg
 
 ## Publications
 
+
+<!-- <span style="color: green;"><span style="color: green;">Coming soon! </span> </span> -->
+
+### Multi-Spectral Image Color Reproduction
+*__Jiacheng Li__, Chang Chen, Xue Hu, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
+<span><pub>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025</pub></span> <br>
+[Paper](https://openaccess.thecvf.com/content/WACV2025/html/Li_Multi-Spectral_Image_Color_Reproduction_WACV_2025_paper.html) 
+
+### All-in-One Image Compression and Restoration
+*Huimin Zeng, __Jiacheng Li__, Ziqiang Zheng, Zhiwei Xiong* <br>
+<span><pub>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 <highlighted>(Oral)</highlighted></pub></span> <br>
+[Paper](https://openaccess.thecvf.com/content/WACV2025/html/Zeng_All-in-One_Image_Compression_and_Restoration_WACV_2025_paper.html) | 
+[Code](https://github.com/ZeldaM1/All-in-one)
+
+
 ### Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
 *__Jiacheng Li__, Chang Chen, Zhen Cheng, Zhiwei Xiong* <br>
 <span><pub>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024</pub></span> <br>
@@ -25,17 +40,19 @@ Hi there, I am a Research Scientist with Sony Research. I received the Ph.D. deg
 ### Joint EM Image Denoising and Segmentation with Instance-aware Interaction
 _Zhicheng Wang, __Jiacheng Li__, Yinda Chen, Jiateng Shou, Shiyu Deng, Wei Huang, Zhiwei Xiong_ <br>
 <span><pub>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024</pub></span> <br>
-<span style="color: green;"><span style="color: green;">Coming soon! </span> </span>
+[Paper](https://papers.miccai.org/miccai-2024/429-Paper1351) |
+[Code](https://github.com/zhichengwang-tri/EM-DenoiSeg)
 
 ### MLP Embedded Inverse Tone Mapping
 _Panjun Liu, __Jiacheng Li__, Lizhi Wang, Zheng-Jun Zha, Zhiwei Xiong_ <br>
 <span><pub>ACM International Conference on Multimedia (ACM MM), 2024 </pub></span> <br>
-<span style="color: green;"><span style="color: green;">Coming soon! </span> </span>
+[Paper](https://dl.acm.org/doi/10.1145/3664647.3680937) |
+[Code](https://github.com/pjliu3/MLP_iTM)
 
 
 ### In-Loop Filtering via Trained Look-Up Tables
 _Zhuoyuan Li, __Jiacheng Li__, Yao Li, Li Li, Dong Liu, Feng Wu_ <br>
-<span><pub>arxiv preprint, 2024</pub></span> <br>
+<span><pub>IEEE Visual Communications and Image Processing (VCIP), 2024 <highlighted>(Oral)</highlighted></pub></span> <br>
 [Paper](https://arxiv.org/abs/2407.10926)
 
 ### LeRF: Learning Resampling Function for Adaptive and Efficient Image Interpolation
