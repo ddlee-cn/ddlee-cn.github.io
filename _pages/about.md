@@ -21,7 +21,8 @@ Hi there, I am a Research Scientist with Sony Research. I received the Ph.D. deg
 ### Multi-Spectral Image Color Reproduction
 *__Jiacheng Li__, Chang Chen, Xue Hu, Fenglong Song, Youliang Yan, Zhiwei Xiong* <br>
 <span><pub>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025</pub></span> <br>
-[Paper](https://openaccess.thecvf.com/content/WACV2025/html/Li_Multi-Spectral_Image_Color_Reproduction_WACV_2025_paper.html) 
+[Paper](https://openaccess.thecvf.com/content/WACV2025/html/Li_Multi-Spectral_Image_Color_Reproduction_WACV_2025_paper.html)  |
+[Intro Video](https://www.youtube.com/watch?v=ZhUUngkHWIA)
 
 ### All-in-One Image Compression and Restoration
 *Huimin Zeng, __Jiacheng Li__, Ziqiang Zheng, Zhiwei Xiong* <br>
