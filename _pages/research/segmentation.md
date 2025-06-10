@@ -1,0 +1,9 @@
+## Toward Creativity: Synergy of Understanding and Generation
+
+The future of visual computing lies not in isolated capabilities, but in the powerful synergy between sensing, understanding, and generation. My research is driven by this vision, exploring how these components can co-evolve to create systems that are more than the sum of their parts, moving beyond visual [faithfulness]({{ site.baseurl }}/publications/#faithfulness) towards true machine intelligence.
+
+My work investigates each part of this synergistic loop. I have developed novel techniques for deep scene understanding in complex medical imagery through efforts in [generative data augmentation]({{ site.baseurl }}/publications/#mask rearranging) and [supervision signal design]({{ site.baseurl }}/publications/#pctrans). I have explored advanced sensing by building a [novel system]({{ site.baseurl }}/publications/#fast 3d reconstruction) for ultra-fast 3D reconstruction. To ensure these systems are broadly applicable, my research in [domain generalization]({{ site.baseurl }}/publications/#style projected) enhances model robustness for real-world deployment. Besides, I mentored a project on the investigation of [the synergy between understanding and reconstruction]({{ site.baseurl }}/publications/#joint em).
+
+This fusion of advanced sensing and robust understanding sets the stage for the next frontier: creative and context-aware production using [Generative AI]({{ site.baseurl }}/rendering-&-generative-ai/).
+
+Looking ahead, I am dedicated to exploring this virtuous cycle between understanding and generation—creating a feedback loop where models that generate more realistic scenes become better at understanding them, and vice-versa.

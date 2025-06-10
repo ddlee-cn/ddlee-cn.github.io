@@ -1,0 +1,14 @@
+## Toward Faithfulness: Color Reproduction
+
+Color reproduction is a critical aspect of digital imaging and display technology, aiming to faithfully represent the original colors across different devices and media. Along with dynamic range, [colorimetry]({{ site.baseurl }}/blog/2023/Color-Science/) plays a pivotal role in recreate the visual experience that closely matches human perception. Different from common low-level vision tasks such as image denoising or enhancement, that map pixel values to better pixel values within the same signal space, color reproduction involves complex transformations between various signal spaces, including scene-referred (e.g., camera RAW) and display-referred (e.g., sRGB) representations. 
+
+My main achivement along this direction is [Multi-Spectral Image Color Reproduction(MSICR)]({{ site.baseurl }}/publications/#multi-spectral) (done in mid 2023), which is a pioneering research project for the feasibility of color reproduction utilizing multi-spectral imaging systems[^MSI] for flagship smartphones. [2025 Update: It's a mainstream feature for flagship smartphones now📱[^Huawei],[^OPPO].] The goal of MSICR is to produce highly faithful and accurate color representations from multi-spectral RAW signals, handling the challenging cases where traditional RGB cameras fail to reproduce colors accurately due to limited spectral sensitivity, such as in low light conditions where only a few colors present. Under three representative light conditions, our system achieved less than 1 degree of angular error for most cases, and an average color difference of around 2 $\Delta E$, approaching the discrimination limit of human color perception. We revealed the considerable potential of multi-spectral imaging systems in enhancing color matching and color constancy, showing the importance of a holistic system design for unlocking the full potential of both hardware and software components.
+
+Moving forward, I am excited to explore more applications of color reproduction, especially under the real-time constraints imposed by wearable devices like [AR/VR headsets]({{ site.baseurl }}/blog/2024/Vision-Pro/), where high-quality color representation is essential for an immersive user experience. This will involve advancements in both multiple sensors integration and algorithmic solutions to complement each other effectively.
+
+
+**References**
+
+[^MSI]: [Spectricity: Multispectral Imaging for mobile and consumer devices](https://spectricity.com/product/technology/)
+[^Huawei]: [Huawei Mate 70 series announced](https://www.phonearena.com/news/huawei-mate-70-series-announced_id165218)
+[^OPPO]: [Oppo Find X8 Ultra review](https://www.phonearena.com/reviews/oppo-find-x8-ultra-review_id7200)
