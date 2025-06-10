@@ -185,6 +185,18 @@
       {{ entry.note | strip }}
     </div>
 
+
+    <!-- Tags -->
+    {% if entry.tags %}
+    {% assign tag_list = entry.tags | split: ',' %}
+    <div class="tags mt-2">
+      {% for tag in tag_list %}
+      <span class="tag">{{ tag | strip }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
