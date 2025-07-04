@@ -20,6 +20,20 @@
 @STRING{IJCV = {International Journal of Computer Vision (IJCV)}}
 @STRING{TCSVT = {{IEEE} Transactions on Circuits and Systems for Video Technology (T-CSVT)}}
 
+@inproceedings{iccv25,
+  author       = {
+                  Jiacheng Li and
+                  Feiran Li and
+                  Daisuke Iso},
+  title        = {Learning Hierarchical Line Buffer for Image Processing},
+  booktitle    = ICCV,
+  year         = {2025},
+  abbr={ICCV},
+  selected={true},
+  tags={Faithfulness, Denoising},
+  abstract={In recent years, neural networks have achieved significant progress in offline image processing. However, in online scenarios, particularly in on-chip implementations, memory usage emerges as a critical bottleneck due to the limited memory resources of integrated image processors. In this study, we focus on reducing the memory footprint of neural networks for on-chip image processing by optimizing network design for efficient memory utilization. Specifically, we consider a typical scenario in which images outputted from an image sensor are processed sequentially using line buffers in a line-by-line manner. This setting necessitates the modeling of both intra-line and inter-line correlations—capturing dependencies among pixels within a single line group and across different line groups, respectively. To model intra-line correlations, we propose a progressive feature enhancement strategy, where line pixels are processed with expanding strip convolutions in multiple stages. For inter-line correlation modeling, we introduce a hierarchical line buffer formulation, where features extracted from previous lines are incrementally reused and compressed across multiple hierarchical levels. Comprehensive experiments on various image processing tasks, including RAW denoising, Gaussian denoising, and super-resolution, demonstrate that the proposed method achieves a superior trade-off between performance and memory efficiency than previous solutions, e.g., up to 1dB PSNR gain in RAW denoising at one-fifth of peak memory usage.}
+}
+
 @article{DBLP:journals/corr/abs-2407-09935,
   author       = {Jiacheng Li and
                   Chang Chen and
